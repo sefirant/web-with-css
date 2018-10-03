@@ -108,11 +108,11 @@ section#box-profile{
 	top: 25px;
 	margin-left: 40px;
 }
-.img-profile.photo{
+.img-profile .photo{
 	height: 100%;
 	background-size: 100%;
 	background-repeat: no-repeat;
-	background-position: 0px 20px;
+	background-position: 0px -20px;
 	border-radius: 300px;
 }
 .description{
@@ -171,7 +171,7 @@ section#input-form{
 	box-shadow: 0 0 7px 0px rgba(136, 146, 146, 0.2);
 	padding: 30px;
 }
-#input-form .fore{
+#input-form .form{
 	width: 100%;
 	display: grid;
 	margin-top: 15px;
